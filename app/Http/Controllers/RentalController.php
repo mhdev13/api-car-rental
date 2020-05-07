@@ -29,7 +29,7 @@ class RentalController extends Controller
         
         $data->save();
 
-    return response('Berhasil Tambah Data');
+        return response($data);
     }
 
     public function update(Request $request, $id){
@@ -40,6 +40,6 @@ class RentalController extends Controller
         $data->quantity = $request->input('quantity');
         $data->save();
 
-    return response('Berhasil Merubah Data');
+        return response($data);
     }
 }
