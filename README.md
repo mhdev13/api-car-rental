@@ -1,11 +1,18 @@
 ### How to install cd rental jojonomic
-##### 1. install lumen
+##### 1. git clone this project
+
+```bash
+$ git clone https://github.com/ahmadpato/rental 
+```
+
+
+##### 2. install lumen
 
 ```bash
 $ composer create-project laravel/lumen rental --prefer-dist
 ```
 
-##### 2. setup database and migration in .env
+##### 3. setup database and migration in .env
 
 ```bash
 $ DB_DATABASE=jojonomic
