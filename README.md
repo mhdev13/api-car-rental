@@ -1,4 +1,4 @@
-### cd rental jojonomic
+### How to install cd rental jojonomic
 ##### 1. install lumen
 
 ```bash
