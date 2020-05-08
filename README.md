@@ -1,11 +1,8 @@
 ### cd rental jojonomic
 ## 1. install lumen
 
-Perintah 
-
 ```bash
-$ git clone https://github.com/bantenprov/advancetrust.git
-$ cd advancetrust/
+$ composer create-project laravel/lumen rental --prefer-dist
 ```
 
 **contoh penggunaan perintah "git clone":**
