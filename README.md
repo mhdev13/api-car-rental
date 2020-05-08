@@ -30,3 +30,6 @@ $ php artisan migrate
 ```bash
 $ php -S localhost:8000 -t ./public
 ```
+
+##### 6. Open your postman
+example : http://localhost:8000/rental/
