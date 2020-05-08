@@ -12,7 +12,7 @@ $ git clone https://github.com/ahmadpato/rental
 $ composer create-project laravel/lumen rental --prefer-dist
 ```
 
-##### 3. setup database and migration in .env
+##### 3. setup database in .env
 
 ```bash
 $ DB_DATABASE=jojonomic
@@ -20,13 +20,13 @@ DB_USERNAME=youruername
 DB_PASSWORD=yourpassword(if any)
 ```
 
-##### run this function
+##### 4. migration with run this function
 ```bash
 $ php artisan migrate
 
 ```
 
-##### run this project
+##### 5. run this project
 ```bash
 $ php -S localhost:8000 -t ./public
 ```
