@@ -1,7 +1,8 @@
-## Untuk Kontributor
-### 1. git clone
+## cd rental jojonomic
+### 1. install lumen
 
-Perintah "**git clone**" digunakan untuk mengunduh code yang ada pada repository.
+Perintah "**composer create-project laravel/lumen rental --prefer-dist
+**".
 
 **git clone < repository yang akan di gunakan >**
 
