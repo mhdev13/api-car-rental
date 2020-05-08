@@ -25,3 +25,8 @@ DB_PASSWORD=yourpassword(if any)
 $ php artisan migrate
 
 ```
+
+##### run this project
+```bash
+$ php -S localhost:8000 -t ./public
+```
