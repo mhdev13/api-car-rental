@@ -2,10 +2,8 @@
 ### 1. install lumen
 
 Perintah 
-**composer create-project laravel/lumen rental --prefer-dist
-**
 
-**git clone < repository yang akan di gunakan >**
+**composer create-project laravel/lumen rental --prefer-dist**
 
 **contoh penggunaan perintah "git clone":**
 ```bash
