@@ -1,4 +1,4 @@
-### How to install cd rental jojonomic
+### How to install restfull api with lumen
 ##### 1. Clone this project
 
 ```bash
