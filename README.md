@@ -2,20 +2,20 @@
 ##### 1. Clone this project
 
 ```bash
-$ git clone https://github.com/ahmadpato/rental 
+$ git clone https://github.com/ahmadpato/api-car-rental 
 ```
 
 
 ##### 2. Install lumen
 
 ```bash
-$ composer create-project laravel/lumen rental --prefer-dist
+$ composer create-project laravel/lumen api-car-rental --prefer-dist
 ```
 
 ##### 3. Setup database in .env
 
 ```bash
-$ DB_DATABASE=jojonomic
+$ DB_DATABASE=
 DB_USERNAME=youruername
 DB_PASSWORD=yourpassword(if any)
 ```
@@ -32,4 +32,4 @@ $ php -S localhost:8000 -t ./public
 ```
 
 ##### 6. Open your postman
-example : http://localhost:8000/rental/
+example : http://localhost:8000/api-car-rental/
